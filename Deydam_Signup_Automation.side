@@ -62,7 +62,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[2]/div/input", "xpath:idRelative"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "ajidetest3"
+      "value": "ajidetest4"
     }, {
       "id": "950dcbb7-17ad-43c3-8bf0-17bf7ee0f0f8",
       "comment": "",
@@ -76,7 +76,7 @@
         ["xpath=//div[@id='root']/div/div/div/main/div/div[2]/div/div/div/div[2]/div/div/form/div[3]/div/input", "xpath:idRelative"],
         ["xpath=//div[3]/div/input", "xpath:position"]
       ],
-      "value": "ridwan3@mailinator.com"
+      "value": "ridwan4@mailinator.com"
     }, {
       "id": "8726cdb7-7611-4727-a309-a88141a90f52",
       "comment": "",
